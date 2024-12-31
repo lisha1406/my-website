@@ -1,0 +1,13 @@
+
+        *{
+    background-color:rgb(248, 227, 143);
+    }
+
+    h2{
+    font-size: large;
+    font-style: italic;
+    }
+    iframe{
+    border:10px solid rgb(82, 2, 2);
+    border-radius: 15px;
+    }

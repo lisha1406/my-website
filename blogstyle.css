@@ -1,0 +1,25 @@
+body{
+    margin:20px;
+    background-image: url ("C:\Users\lisha\Downloads\sky-blue-background-4dv0jvhoooe9rrpc.jpg");
+}
+h2{
+    text-align: center;
+}
+div{
+    padding:20px;
+    height:200px;
+    width:1000px;
+    background-color:burlywood;
+    border:10px solid black;
+    border-radius:90px;
+}
+img{
+    border:10px solid black;
+}
+h1{
+    color:black;
+    font-style:italic;
+    line-height: normal;
+    text-align: center;
+    font-size: larger;
+}

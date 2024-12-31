@@ -1,0 +1,32 @@
+
+        body{
+            background-image:url("https://wallpapercave.com/wp/wp4390828.jpg")
+        }
+        div{
+            height:700px;
+            width:600px;
+            background-color:rgb(56, 48, 48);
+            border:10px solid red;
+            border-radius:100px;
+            margin:100px;
+            padding:60px;
+        }
+        h2{
+            color:darkviolet;
+            text-decoration: underline;
+            
+        }
+        input{
+            border:5px solid black;
+            border-radius:45px;
+        }
+        button{
+            background-color:blue;
+            color:white;
+        }
+        a{
+            margin:50px;
+            display: contents;
+        }
+
+   
